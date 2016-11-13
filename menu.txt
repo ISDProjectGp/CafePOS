@@ -1,0 +1,34 @@
+Cappuccino
+38
+Mocha
+38
+Espresso
+34
+Latte
+40
+Rosemary Latte
+42
+Oreo MilkShake
+38
+CheeseCake
+34
+Strawberry CheeseCake
+38
+Chocolate Cake
+38
+ChestnutCake
+35
+Green Tea Cupcake
+28
+Spaghetti With
+68
+Sliced Port Chop
+62
+Carbonara
+62
+Katsudon(Curry)
+68
+Curry(Chicken)
+70
+
+
