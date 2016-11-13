@@ -2,7 +2,7 @@ CafePOS
 ===============
 
 A Cafe Point of Sales System made by JAVA
-
+https://github.com/ISDProjectGp/CafePOS/blob/master/screen_shot.png
 
 
 Limitations
